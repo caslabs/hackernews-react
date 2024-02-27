@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #ff6600; /* Hacker News orange */
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+    padding: 0;
+}
+
+.navbar-nav span {
+    padding: 0 10px;
+}
+
+a {
+    color: black;
+    font-weight: light;
+}
+
+/* Style for the domain and metadata (points, username, etc.) */
+.text-muted {
+    color: #828282; /* A gray color used on Hacker News */
+}
+
+.col-12 span.text-muted {
+    margin-right: 4px;
+}
+
+.row.mb-2 {
+    background-color: #f6f6f0;
+}
+
+form {
+    background-color: #f6f6f0;
+}
+
+.mb-2 {
+    margin-bottom: 0px !important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: block !important;
+}
